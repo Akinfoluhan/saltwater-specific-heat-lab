@@ -94,11 +94,11 @@ Overall, the results supported the hypothesis that specific heat capacity decrea
 ## Repository contents
 
 - docs/presentation/
-  - Saltwater Molality Presentation.pptx: final project presentation
+  - final-presentation.pdf: final project presentation
 - docs/weekly-updates/
-  - Weekly Update 1.docx
-  - Weekly Update 2.docx
-  - Weekly Update 3.docx
+  - weekly-update-1.pdf
+  - weekly-update-2.pdf
+  - weekly-update-3.pdf
 - labview/
   - Lab Project VI.vi: LabVIEW VI used for DAQ acquisition and temperature conversion
 - media/figures/
