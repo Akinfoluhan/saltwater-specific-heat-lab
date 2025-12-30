@@ -22,7 +22,7 @@ We modeled the solution + heater as a closed system so electrical energy deliver
 
 Key relationships:
 
-- Sensible heating: Q = m Cp ΔT
+- Sensible heating: Q = m C_p ΔT
 - Electrical power delivered to the heater: P = V^2 / R
 - Energy added over an interval: Q = P Δt
 
@@ -38,9 +38,9 @@ To measure temperature, the thermistor was placed in a voltage divider powered b
 
 Given the measured node voltage Vout, the thermistor resistance can be computed as:
 
-Rtherm = Rknown \* Vout / (Vin - Vout)
+R_therm = R_known \* V_out / (V_in - V_out)
 
-where Vin = 5 V and Rknown ≈ 68 Ω.
+where V_in = 5 V and R_known ≈ 68 Ω.
 
 ### Calibration points
 
